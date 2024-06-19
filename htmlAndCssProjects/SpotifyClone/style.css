@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  height: 1500px;
+  width: 1500px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  display: flex;
+  gap: 400px;
+  justify-content: baseline;
+  background-color: black;
+  color: white;
+}
+
+.first {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  
+}
+
+.home {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  background-color: gray;
+}
+
+.search {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.library {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.yl {
+  display: flex;
+  gap: 10px;
+}
+.tools {
+  padding: 2px;
+  display: flex;
+  gap: 3px;
+}
+.tag {
+  border-radius: 10px;
+  background-color: gray;
+  padding: 10px;
+}
+
+.second {
+  margin: 10px;
+  padding: 10px;
+}
+
+.third {
+  margin: 10px;
+  padding: 10px;
+}
+
+.song1 {
+  display: flex;
+}
+
+img {
+  width: 80px;
+  height: 80px;
+}
+
+.i1 {
+  display: flex;
+  align-items: center;
+}
+
+.mainimage {
+  display: flex;
+  gap: 10px;
+}
